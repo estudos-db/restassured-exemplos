@@ -1,1 +1,1 @@
-# restassured-exemplos
+# Exemplos de testes utilizando RestAssured
